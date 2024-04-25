@@ -309,7 +309,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c536d31a7c6b7d43abb7a8e9b24188d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionChange: {x: 0, y: 0, z: 0}
+  positionChange: {x: 0.1, y: 0.1, z: 0.1}
 --- !u!114 &213107214
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -322,7 +322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 452baea00a0e0e64dafb663cd35fa0f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scaleChange: {x: 0.0001, y: 0.0001, z: 0.0001}
+  scaleChange: {x: 0.001, y: 0.001, z: 0.001}
 --- !u!54 &213107215
 Rigidbody:
   m_ObjectHideFlags: 0
